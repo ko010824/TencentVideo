@@ -1,0 +1,526 @@
+{
+  "list": [
+      {"option":"精选","href":"/"},
+      {"option":"电视剧","href":"/TVshow"},
+      {"option":"VIP","href":"/vip"},
+      {"option":"电影","href":"/movie"},
+      {"option":"综艺","href":"/zongyi"},
+      {"option":"动漫","href":"/cartoon"},
+      {"option":"少儿","href":"/teen"},
+      {"option":"时尚","href":"/fashion"},
+      {"option":"娱乐","href":"/entertainment"},
+      {"option":"体育","href":"/sport"},
+      {"option":"潮音","href":"/music"},
+      {"option":"游戏","href":"/game"},
+      {"option":"纪录片","href":"/jlp"}
+  ],
+  "swiList":[
+    {
+      "sImg":"../static/img/0.jpg",
+      "sTypeText":"VIP",
+      "sDate":"2019-1-14",
+      "sTitle":"【知否】你今天为小公爷流泪了么"
+    },
+    {
+      "sImg":"../static/img/1.jpg",
+      "sTypeText":"VIP",
+      "sDate":"2019-1-14",
+      "sTitle":"【知否】明兰贺弘文谈婚论嫁"
+    },
+    {
+      "sImg":"../static/img/4.jpg",
+      "sTypeText":"VIP",
+      "sDate":"2019-1-14",
+      "sTitle":"【知否】小公爷再次恳求母亲向明兰提亲"
+    },
+    {
+      "sImg":"../static/img/2.jpg",
+      "sTypeText":"VIP",
+      "sDate":"2019-1-14",
+      "sTitle":"【小女花不弃】最甜“假摔”抱"
+    },
+    {
+      "sImg":"../static/img/3.jpg",
+      "sTypeText":"VIP",
+      "sDate":"2019-1-14",
+      "sTitle":"火箭少女101这支舞美炸了"
+    }
+  ],
+  "historyList":[
+    {"playTitle":"猜你在追"},
+    {"playMenu":[
+      {
+        "hImg":"../static/img/0.jpg",
+        "hTypeText":"VIP",
+        "hDate":"更新至34集",
+        "hName":"知否知否应是绿肥红瘦",
+        "hIntro":"明衡CP凉了"
+      },
+      {
+        "hImg":"../static/img/1.jpg",
+        "hTypeText":"VIP",
+        "hDate":"更新至34集",
+        "hName":"知否知否应是绿肥红瘦",
+        "hIntro":"明衡CP凉了"
+      },
+      {
+        "hImg":"../static/img/4.jpg",
+        "hTypeText":"VIP",
+        "hDate":"更新至34集",
+        "hName":"知否知否应是绿肥红瘦",
+        "hIntro":"明衡CP凉了"
+      },
+      {
+        "hImg":"../static/img/2.jpg",
+        "hTypeText":"VIP",
+        "hDate":"更新至10集",
+        "hName":"小女花不弃",
+        "hIntro":"明衡CP凉了"
+      },
+      {
+        "hImg":"../static/img/3.jpg",
+        "hTypeText":"VIP",
+        "hDate":"2019-1-14",
+        "hName":"火箭少女101",
+        "hIntro":"明衡CP凉了"
+      }
+    ]}
+  ],
+  "mode":{
+    "playList1": [
+      {"playTitle": "重磅☀热播"},
+      {"playMenu": [
+        {
+          "pImg": "../static/img/0.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否应是绿肥红瘦",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/1.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否应是绿肥红瘦",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否应是绿肥红瘦",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃",
+          "pIntro":"明衡CP凉了"
+        }
+      ]}
+    ],
+    "playList2":[
+      {"playTitle":"热闻♨《红色通缉》第五集《筑坝》"},
+      {"playMenu":[
+        {
+          "pImg": "../static/img/0.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否应是绿肥红瘦",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/1.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否应是绿肥红瘦",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否应是绿肥红瘦",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃",
+          "pIntro":"明衡CP凉了"
+        }
+      ]}
+    ],
+    "playList3":[
+      {"playTitle":"同步剧场"},
+      {"playMenu":[
+        {
+          "pImg": "../static/img/0.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg": "../static/img/0.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/1.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        }
+      ]}
+    ],
+    "playList4":[
+      {"playTitle":"热门综艺"},
+      {"playMenu":[
+              {
+                "pImg": "../static/img/6.jpg",
+                "pTypeText": "VIP",
+                "pDate": "更新至34集",
+                "pName": "知否知否[会员抢先看]",
+                "pIntro": "明衡CP凉了"
+              },
+              {
+                "pImg": "../static/img/0.jpg",
+                "pTypeText": "VIP",
+                "pDate": "更新至34集",
+                "pName": "知否知否[会员抢先看]",
+                "pIntro": "明衡CP凉了"
+              },
+              {
+                "pImg":"../static/img/1.jpg",
+                "pTypeText":"VIP",
+                "pDate":"更新至34集",
+                "pName":"知否知否[会员抢先看]",
+                "pIntro":"明衡CP凉了"
+              },
+              {
+                "pImg":"../static/img/4.jpg",
+                "pTypeText":"VIP",
+                "pDate":"更新至34集",
+                "pName":"知否知否[会员抢先看]",
+                "pIntro":"明衡CP凉了"
+              },
+              {
+                "pImg":"../static/img/2.jpg",
+                "pTypeText":"VIP",
+                "pDate":"更新至10集",
+                "pName":"小女花不弃[会员抢先看]",
+                "pIntro":"明衡CP凉了"
+              },
+              {
+                "pImg":"../static/img/4.jpg",
+                "pTypeText":"VIP",
+                "pDate":"更新至34集",
+                "pName":"知否知否[会员抢先看]",
+                "pIntro":"明衡CP凉了"
+              },
+              {
+                "pImg":"../static/img/2.jpg",
+                "pTypeText":"VIP",
+                "pDate":"更新至10集",
+                "pName":"小女花不弃[会员抢先看]",
+                "pIntro":"明衡CP凉了"
+              }
+            ]}
+    ],
+    "playList5":[
+      {"playTitle":"电影大片"},
+      {"playMenu":[
+        {
+          "pImg": "../static/img/5.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg": "../static/img/0.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/1.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        }
+      ]}
+    ],
+    "playList6":[
+      {"playTitle":"动漫·二次元"},
+      {"playMenu":[
+        {
+          "hImg": "../static/img/5.jpg",
+          "hTypeText": "VIP",
+          "hDate": "更新至34集",
+          "hName": "知否知否[会员抢先看]",
+          "hIntro": "明衡CP凉了"
+        },
+        {
+          "hImg": "../static/img/0.jpg",
+          "hTypeText": "VIP",
+          "hDate": "更新至34集",
+          "hName": "知否知否[会员抢先看]",
+          "hIntro": "明衡CP凉了"
+        },
+        {
+          "hImg":"../static/img/1.jpg",
+          "hTypeText":"VIP",
+          "hDate":"更新至34集",
+          "hName":"知否知否[会员抢先看]",
+          "hIntro":"明衡CP凉了"
+        },
+        {
+          "hImg":"../static/img/4.jpg",
+          "hTypeText":"VIP",
+          "hDate":"更新至34集",
+          "hName":"知否知否[会员抢先看]",
+          "hIntro":"明衡CP凉了"
+        },
+        {
+          "hImg":"../static/img/2.jpg",
+          "hTypeText":"VIP",
+          "hDate":"更新至10集",
+          "hName":"小女花不弃[会员抢先看]",
+          "hIntro":"明衡CP凉了"
+        },
+        {
+          "hImg":"../static/img/4.jpg",
+          "hTypeText":"VIP",
+          "hDate":"更新至34集",
+          "hName":"知否知否[会员抢先看]",
+          "hIntro":"明衡CP凉了"
+        },
+        {
+          "hImg":"../static/img/2.jpg",
+          "hTypeText":"VIP",
+          "hDate":"更新至10集",
+          "hName":"小女花不弃[会员抢先看]",
+          "hIntro":"明衡CP凉了"
+        }
+      ] }
+    ],
+    "playList7": [
+      {"playTitle":"娱乐热点"},
+      {"playMenu":[
+        {
+          "pImg": "../static/img/7.png",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg": "../static/img/0.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/1.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/4.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/2.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至10集",
+          "pName":"小女花不弃[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        }
+      ]}
+    ],
+    "playList8": [
+      {"playTitle":"少儿热点"},
+      {"playMenu":[
+        {
+          "pImg": "../static/img/9.jpg",
+          "pTypeText": "VIP",
+          "pDate": "",
+          "pName": "超迷你战士 第二季",
+          "pIntro": "正能量是打败烦恼的最佳武器"
+        },
+        {
+          "pImg": "../static/img/9.jpg",
+          "pTypeText": "VIP",
+          "pDate": "",
+          "pName": "超迷你战士 第二季",
+          "pIntro": "正能量是打败烦恼的最佳武器"
+        },
+        {
+          "pImg":"../static/img/9.jpg",
+          "pTypeText":"VIP",
+          "pDate":"",
+          "pName":"超迷你战士 第二季",
+          "pIntro":"正能量是打败烦恼的最佳武器"
+        },
+        {
+          "pImg":"../static/img/9.jpg",
+          "pTypeText":"VIP",
+          "pDate":"",
+          "pName":"超迷你战士 第二季",
+          "pIntro":"正能量是打败烦恼的最佳武器"
+        }
+      ]}
+    ],
+    "playList9":[
+      {"playTitle":"音乐·演唱会"},
+      {"playMenu":[
+        {
+          "pImg": "../static/img/6.jpg",
+          "pTypeText": "自制",
+          "pDate": "",
+          "pName": "【烎·仅供观看100个小时】华晨宇斗牛燃炸全场",
+          "pIntro": ""
+        },
+        {
+          "pImg": "../static/img/6.jpg",
+          "pTypeText": "VIP",
+          "pDate": "更新至34集",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "明衡CP凉了"
+        },
+        {
+          "pImg":"../static/img/6.jpg",
+          "pTypeText":"VIP",
+          "pDate":"更新至34集",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"明衡CP凉了"
+        }
+      ]}
+    ],
+    "playList10": [
+      {"playTitle":"体育竞技"},
+      {"playMenu":[
+        {
+          "pImg": "../static/img/8.jpg",
+          "pTypeText": "",
+          "pDate": "",
+          "pName": "勇士首节51分登西部第一 三巨头合砍89分",
+          "pIntro": ""
+        },
+        {
+          "pImg": "../static/img/8.jpg",
+          "pTypeText": "",
+          "pDate": "",
+          "pName": "知否知否[会员抢先看]",
+          "pIntro": "初恋CP没了"
+        },
+        {
+          "pImg":"../static/img/8.jpg",
+          "pTypeText":"",
+          "pDate":"",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"齐小公爷"
+        },
+        {
+          "pImg":"../static/img/8.jpg",
+          "pTypeText":"",
+          "pDate":"",
+          "pName":"知否知否[会员抢先看]",
+          "pIntro":"齐衡"
+        },
+        {
+          "pImg":"../static/img/8.jpg",
+          "pTypeText":"",
+          "pDate":"",
+          "pName":"小女花不弃[会员抢先看]",
+          "pIntro":"齐元若"
+        }
+      ]}
+    ]
+  }
+}

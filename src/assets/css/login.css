@@ -1,0 +1,73 @@
+.login-container{
+    width: 100%;
+    height: 100%;
+}
+.login-cont-user{
+    padding: 30px 0;
+}
+.l-user-img{
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 21px;
+    border: 1px solid #545752;
+    background: url(../img/default_160.png) no-repeat;
+    background-size: 100%;
+    border-radius: 50%;
+}
+.l-user-img>img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.l-user-nick{
+    font-size: 15px;
+    color: #30312e;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 3px;
+}
+.l-user-txt{
+    font-size: 12px;
+    color: #979797;
+    line-height: 20px;
+    text-align: center;
+}
+
+.login-cont-change-user{
+    padding: 0 24px;
+}
+.login-cont-change-user>a{
+    display: block;
+    width: 225px;
+    height: 45px;
+    margin: 0 auto 20px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 23px;
+}
+.login-cont-change-user>a:first-child{
+    background: #2ec637;
+}
+.login-cont-change-user>a:last-child{
+    background: #40a5e5;
+}
+.login-cont-change-user>a>i{
+    display: inline-block;
+    width: 25px;
+    height: 21px;
+    background: url(../img/sprite_icon1.png) no-repeat;
+    background-size: 60px;
+    vertical-align: middle;
+    margin-right: 4px;
+    position: relative;
+    top: -2px;
+}
+.login-cont-change-user .u-icon-wx{
+    background-position: 0 0;
+}
+.login-cont-change-user .u-icon-qq{
+    background-position: -30px 0;
+}

@@ -1,0 +1,85 @@
+
+.login-qq-container{
+    margin: 0 auto;
+    width: 320px;
+    height: 500px;
+}
+.login-qq{
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.logo-qq-vip{
+    height: 100px;
+    width: 244px;
+    margin: 0 auto 20px;
+    background-size: 244px 100px;
+    background-image: url(https://i.gtimg.cn/qqlive/images/20160606/i1465201597_1.jpg);
+}
+.web-login{
+    width: 290px;
+    margin: 0 auto;
+}
+.web-login .inps{
+    background: #fff;
+    height: 89px;
+    border-radius: 4px;
+}
+.web-login .g-u{
+    border-bottom: 1px solid #eaeaea;
+}
+.inputStyle{
+    display: block;
+    width: 273px;
+    height: 44px;
+    color: #000;
+    border: none;
+    background: 0 0;
+    padding-left: 15px;
+    font-size: 16px;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: rgba(255,255,255,0);
+}
+.web-login a{
+    display: block;
+    width: 290px;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    background: #146fdf;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.web-login .oneKey{
+    height: 42px;
+    border: 1px solid #9abbe3;
+    color: #146fdf;
+    background: #e7e7e7;
+}
+
+.switch{
+    width: 290px;
+    margin: 0 auto;
+}
+.zc-feedback{
+    width: 290px;
+    position: relative;
+    margin-top: 15px;
+    overflow: hidden;
+}
+.zc,.forgetpwd{
+    color: #246183;
+    line-height: 14px;
+    font-size: 14px;
+    padding: 15px 10px;
+}
+.zc-feedback .zc{
+    float: right;
+    margin-right: -10px;
+}
+.zc-feedback .forgetpwd{
+    float: left;
+    margin-left: -10px;
+}
